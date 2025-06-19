@@ -1,0 +1,248 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.praktijkaanhetij.nl" resolutions="1x" timestamp="1719559745012">
+  <folder name="css">
+    <file name="site_global.css" crc="485413945"/>
+    <file name="master_home-basis-acupunctuur.css" crc="4224036137" ref="basisprincipe:bekendheid-en-indicaties:over-acupunctuur:acupunctuur:acupunctuur-behandeling:who-lijst-met-indicaties"/>
+    <file name="master_home-basis-fysiotherapie.css" crc="379412382" ref="fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur:fysiotherapie-behandeling:over-fysiotherapie:fysiotherapie"/>
+    <file name="master_home-contact.css" crc="232554831" ref="routebeschrijving:adres:contact"/>
+    <file name="master_home-basis.css" crc="215439388" ref="index:intake"/>
+    <file name="master_home-basis-oefentherapie.css" crc="48911746" ref="oefentherapie-combinatie-met-shiatsu:mensendieck:oefentherapie-slaapoefentherapie:oefentherapie-bekendheid-en-indicaties:oefentherapie-behandeling:over-oefentherapie"/>
+    <file name="master_home-basis-kosten-en-vergoeding.css" crc="3924716304" ref="kosten-en-vergoeding:vergoedingen-zorgverzekering:kosten-en-vergoedingen-algemeen"/>
+    <file name="master_home-basis-shiatsu.css" crc="128079917" ref="shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap:shiatsu:shiatsu-behandeling:over-shiatsu"/>
+    <file name="master_home-basis-therapeuten.css" crc="196844521" ref="therapeuten:naamloos-27:jorg-nienhaus:saskia-ten-brinke"/>
+    <file name="therapeuten.css" crc="3944766297" ref="therapeuten"/>
+    <file name="kosten-en-vergoeding.css" crc="533193143" ref="kosten-en-vergoeding"/>
+    <file name="shiatsu-basisprincipe.css" crc="3944655197" ref="shiatsu-basisprincipe"/>
+    <file name="oefentherapie-combinatie-met-shiatsu.css" crc="4225923010" ref="oefentherapie-combinatie-met-shiatsu"/>
+    <file name="shiatsu-combinatie-oefentherapie.css" crc="51079022" ref="shiatsu-combinatie-oefentherapie"/>
+    <file name="routebeschrijving.css" crc="515075477" ref="routebeschrijving"/>
+    <file name="basisprincipe.css" crc="3960701661" ref="basisprincipe"/>
+    <file name="index.css" crc="3759422237" ref="index"/>
+    <file name="adres.css" crc="3792435360" ref="adres"/>
+    <file name="bekendheid-en-indicaties.css" crc="4084575076" ref="bekendheid-en-indicaties"/>
+    <file name="shiatsu-zwangerschap.css" crc="4220262964" ref="shiatsu-zwangerschap"/>
+    <file name="vergoedingen-zorgverzekering.css" crc="3792242583" ref="vergoedingen-zorgverzekering"/>
+    <file name="over-acupunctuur.css" crc="234117048" ref="over-acupunctuur"/>
+    <file name="naamloos-27.css" crc="6753954" ref="naamloos-27"/>
+    <file name="kosten-en-vergoedingen-algemeen.css" crc="4029882666" ref="kosten-en-vergoedingen-algemeen"/>
+    <file name="shiatsu.css" crc="3912910007" ref="shiatsu"/>
+    <file name="intake.css" crc="3975075773" ref="intake"/>
+    <file name="jorg-nienhaus.css" crc="383697746" ref="jorg-nienhaus"/>
+    <file name="mensendieck.css" crc="4103465632" ref="mensendieck"/>
+    <file name="oefentherapie-slaapoefentherapie.css" crc="445140209" ref="oefentherapie-slaapoefentherapie"/>
+    <file name="saskia-ten-brinke.css" crc="29026781" ref="saskia-ten-brinke"/>
+    <file name="acupunctuur.css" crc="3850944536" ref="acupunctuur"/>
+    <file name="shiatsu-behandeling.css" crc="30476700" ref="shiatsu-behandeling"/>
+    <file name="fysiotherapie-aandoeningen-en-klachten.css" crc="4103231530" ref="fysiotherapie-aandoeningen-en-klachten"/>
+    <file name="oefentherapie-bekendheid-en-indicaties.css" crc="4217149716" ref="oefentherapie-bekendheid-en-indicaties"/>
+    <file name="fysiotherapie-combinatie-met-acupunctuur.css" crc="379831953" ref="fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="over-shiatsu.css" crc="4029698770" ref="over-shiatsu"/>
+    <file name="fysiotherapie-behandeling.css" crc="3963545565" ref="fysiotherapie-behandeling"/>
+    <file name="acupunctuur-behandeling.css" crc="4145892698" ref="acupunctuur-behandeling"/>
+    <file name="over-fysiotherapie.css" crc="4208429531" ref="over-fysiotherapie"/>
+    <file name="oefentherapie-behandeling.css" crc="3784597482" ref="oefentherapie-behandeling"/>
+    <file name="who-lijst-met-indicaties.css" crc="490744757" ref="who-lijst-met-indicaties"/>
+    <file name="over-oefentherapie.css" crc="503225753" ref="over-oefentherapie"/>
+    <file name="contact.css" crc="4177540044" ref="contact"/>
+    <file name="fysiotherapie.css" crc="4050311978" ref="fysiotherapie"/>
+  </folder>
+  <folder name="assets">
+    <file name="privacy-verklaring-25052018.pdf" crc="40967879" seo="true" mt="1527754334000"/>
+    <file name="privacy-verklaring-28112022.pdf" crc="146402950" seo="true" mt="1671718015000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:acupunctuur:mensendieck:shiatsu:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:therapeuten:kosten-en-vergoeding:contact:who-lijst-met-indicaties:acupunctuur-behandeling:over-shiatsu:shiatsu-behandeling:saskia-ten-brinke:jorg-nienhaus:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering:adres:routebeschrijving:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie:intake:naamloos-27:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap:fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="museutils.js" crc="183364071" ref="index:acupunctuur:mensendieck:shiatsu:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:therapeuten:kosten-en-vergoeding:contact:who-lijst-met-indicaties:acupunctuur-behandeling:over-shiatsu:shiatsu-behandeling:saskia-ten-brinke:jorg-nienhaus:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering:adres:routebeschrijving:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie:intake:naamloos-27:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap:fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:acupunctuur:mensendieck:shiatsu:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:therapeuten:kosten-en-vergoeding:contact:who-lijst-met-indicaties:acupunctuur-behandeling:over-shiatsu:shiatsu-behandeling:saskia-ten-brinke:jorg-nienhaus:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering:adres:routebeschrijving:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie:intake:naamloos-27:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap:fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:acupunctuur:mensendieck:shiatsu:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:therapeuten:kosten-en-vergoeding:contact:who-lijst-met-indicaties:acupunctuur-behandeling:over-shiatsu:shiatsu-behandeling:saskia-ten-brinke:jorg-nienhaus:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering:adres:routebeschrijving:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie:intake:naamloos-27:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap:fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:acupunctuur:mensendieck:shiatsu:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:therapeuten:kosten-en-vergoeding:contact:who-lijst-met-indicaties:acupunctuur-behandeling:over-shiatsu:shiatsu-behandeling:saskia-ten-brinke:jorg-nienhaus:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering:adres:routebeschrijving:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie:intake:naamloos-27:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap:fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4292085622" ref="index"/>
+    <file name="pasted image 17x600.jpg" crc="248576184" seo="true" ref="index:acupunctuur:mensendieck:shiatsu:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:therapeuten:kosten-en-vergoeding:contact:who-lijst-met-indicaties:acupunctuur-behandeling:over-shiatsu:shiatsu-behandeling:saskia-ten-brinke:jorg-nienhaus:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering:adres:routebeschrijving:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie:intake:naamloos-27:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap:fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="pasted image 880x561.jpg" crc="4258816525" seo="true" ref="index:acupunctuur:mensendieck:shiatsu:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:therapeuten:kosten-en-vergoeding:contact:who-lijst-met-indicaties:acupunctuur-behandeling:over-shiatsu:shiatsu-behandeling:saskia-ten-brinke:jorg-nienhaus:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering:adres:routebeschrijving:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie:intake:naamloos-27:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap:fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u2140-10.png" crc="71581692" ref="index:intake"/>
+    <file name="bullet.png" crc="4045351586" ref="index:acupunctuur:mensendieck:shiatsu:therapeuten:kosten-en-vergoeding:contact:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap:fysiotherapie"/>
+    <file name="bullet1.png" crc="10812818" ref="index:acupunctuur:mensendieck:shiatsu:therapeuten:kosten-en-vergoeding:contact:fysiotherapie"/>
+    <file name="blank.gif" crc="4208392903" ref="index:acupunctuur:mensendieck:shiatsu:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:therapeuten:kosten-en-vergoeding:contact:who-lijst-met-indicaties:acupunctuur-behandeling:over-shiatsu:shiatsu-behandeling:saskia-ten-brinke:jorg-nienhaus:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering:adres:routebeschrijving:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie:intake:naamloos-27:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap:fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u2188.png" crc="4040827581" ref="index:intake"/>
+    <file name="u2188-a.png" crc="4040827581" ref="index:intake"/>
+    <file name="u2178.png" crc="93142336" ref="index:intake"/>
+    <file name="u2178-a.png" crc="93142336" ref="index:intake"/>
+    <file name="u2153.png" crc="59055080" ref="index:intake"/>
+    <file name="u2153-a.png" crc="59055080" ref="index:intake"/>
+    <file name="u4421.png" crc="442341814" ref="index:intake"/>
+    <file name="u4421-a.png" crc="442341814" ref="index:intake"/>
+    <file name="u2167.png" crc="5669848" ref="index:intake"/>
+    <file name="u2167-a.png" crc="5669848" ref="index:intake"/>
+    <file name="u2185.png" crc="4140193894" ref="index:intake"/>
+    <file name="u2185-a.png" crc="4140193894" ref="index:intake"/>
+    <file name="u2162.png" crc="70662831" ref="index:intake"/>
+    <file name="u2162-a.png" crc="70662831" ref="index:intake"/>
+    <file name="p1090654.jpg" crc="329847050" seo="true" ref="index"/>
+    <file name="u2094-4.png" crc="4001646413" ref="index:intake"/>
+    <file name="bullet12.png" crc="10812818" ref="acupunctuur"/>
+    <file name="u1606.png" crc="4030903608" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1606-a.png" crc="4030903608" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1647.png" crc="93142336" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1647-a.png" crc="144749043" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1637.png" crc="59055080" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1637-a.png" crc="18743951" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u4456.png" crc="442341814" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u4456-a.png" crc="214954868" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1630.png" crc="5669848" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1630-a.png" crc="3778554251" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1617.png" crc="4140193894" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1617-a.png" crc="3871110522" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1623.png" crc="70662831" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1623-a.png" crc="53762945" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1766-10.png" crc="71581692" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="pasted image 334x98.jpg" crc="4266125097" seo="true" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u1598-4.png" crc="4001646413" ref="acupunctuur:over-acupunctuur:bekendheid-en-indicaties:basisprincipe:who-lijst-met-indicaties:acupunctuur-behandeling"/>
+    <file name="u2442.png" crc="4040827581" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2442-a.png" crc="4030903608" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2434.png" crc="93142336" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2434-a.png" crc="144749043" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2415.png" crc="18743951" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2415-a.png" crc="18743951" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u4442.png" crc="442341814" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u4442-a.png" crc="214954868" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2448.png" crc="5669848" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2448-a.png" crc="3778554251" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2421.png" crc="4140193894" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2421-a.png" crc="3871110522" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2425.png" crc="70662831" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2425-a.png" crc="53762945" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2451-10.png" crc="71581692" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="p1090623.jpg" crc="348098897" seo="true" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2455-4.png" crc="4001646413" ref="mensendieck:over-oefentherapie:oefentherapie-behandeling:oefentherapie-combinatie-met-shiatsu:oefentherapie-bekendheid-en-indicaties:oefentherapie-slaapoefentherapie"/>
+    <file name="u2235.png" crc="4040827581" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2235-a.png" crc="4030903608" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2239.png" crc="144749043" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2239-a.png" crc="144749043" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2212.png" crc="59055080" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2212-a.png" crc="18743951" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u4411.png" crc="442341814" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u4411-a.png" crc="214954868" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2228.png" crc="5669848" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2228-a.png" crc="3778554251" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2218.png" crc="4140193894" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2218-a.png" crc="3871110522" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2204.png" crc="70662831" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2204-a.png" crc="53762945" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2243-10.png" crc="71581692" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="geplakte afbeelding 334 x 98.jpg" crc="3958291441" seo="true" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie"/>
+    <file name="u2197-4.png" crc="4001646413" ref="shiatsu:over-shiatsu:shiatsu-behandeling:shiatsu-basisprincipe:shiatsu-combinatie-oefentherapie:shiatsu-zwangerschap"/>
+    <file name="u2564.png" crc="4040827581" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2564-a.png" crc="4030903608" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2555.png" crc="93142336" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2555-a.png" crc="144749043" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="bullet2.png" crc="4045351586" ref="therapeuten"/>
+    <file name="u2543.png" crc="59055080" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2543-a.png" crc="18743951" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u4406.png" crc="214954868" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u4406-a.png" crc="214954868" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="bullet13.png" crc="10812818" seo="true" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2532.png" crc="3778554251" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2532-a.png" crc="3778554251" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2528.png" crc="4140193894" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2528-a.png" crc="3871110522" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2548.png" crc="70662831" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2548-a.png" crc="53762945" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2565-10.png" crc="71581692" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="geplakte afbeelding 100 x 134.jpg" crc="3839323727" seo="true" ref="therapeuten:saskia-ten-brinke"/>
+    <file name="u2572-4.png" crc="4001646413" ref="therapeuten:saskia-ten-brinke:jorg-nienhaus:naamloos-27"/>
+    <file name="u2932.png" crc="4040827581" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2932-a.png" crc="4030903608" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2923.png" crc="93142336" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2923-a.png" crc="144749043" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2911.png" crc="59055080" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2911-a.png" crc="18743951" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u4426.png" crc="442341814" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u4426-a.png" crc="214954868" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2900.png" crc="5669848" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2900-a.png" crc="3778554251" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2896.png" crc="3871110522" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2896-a.png" crc="3871110522" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2916.png" crc="70662831" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2916-a.png" crc="53762945" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2933-10.png" crc="71581692" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="geplakte afbeelding 334 x 982.jpg" crc="3980869023" seo="true" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u2940-4.png" crc="4001646413" ref="kosten-en-vergoeding:kosten-en-vergoedingen-algemeen:vergoedingen-zorgverzekering"/>
+    <file name="u3200.png" crc="4040827581" ref="contact:adres:routebeschrijving"/>
+    <file name="u3200-a.png" crc="4030903608" ref="contact:adres:routebeschrijving"/>
+    <file name="u3182.png" crc="93142336" ref="contact:adres:routebeschrijving"/>
+    <file name="u3182-a.png" crc="144749043" ref="contact:adres:routebeschrijving"/>
+    <file name="u3193.png" crc="59055080" ref="contact:adres:routebeschrijving"/>
+    <file name="u3193-a.png" crc="18743951" ref="contact:adres:routebeschrijving"/>
+    <file name="u4446.png" crc="442341814" ref="contact:adres:routebeschrijving"/>
+    <file name="u4446-a.png" crc="214954868" ref="contact:adres:routebeschrijving"/>
+    <file name="u3171.png" crc="5669848" ref="contact:adres:routebeschrijving"/>
+    <file name="u3171-a.png" crc="3778554251" ref="contact:adres:routebeschrijving"/>
+    <file name="u3185.png" crc="4140193894" ref="contact:adres:routebeschrijving"/>
+    <file name="u3185-a.png" crc="3871110522" ref="contact:adres:routebeschrijving"/>
+    <file name="u3208.png" crc="53762945" ref="contact:adres:routebeschrijving"/>
+    <file name="u3208-a.png" crc="53762945" ref="contact:adres:routebeschrijving"/>
+    <file name="u3162-10.png" crc="71581692" ref="contact:adres:routebeschrijving"/>
+    <file name="img_contact-1-.jpg" crc="408920533" seo="true" ref="contact:adres:routebeschrijving"/>
+    <file name="logo svn.png" crc="4240462489" seo="true" ref="contact:adres"/>
+    <file name="logo scag.jpg" crc="4055313831" seo="true" ref="contact:adres"/>
+    <file name="logo rbcz.png" crc="452087769" seo="true" ref="contact:adres"/>
+    <file name="zhong logo.jpg" crc="95682615" seo="true" ref="contact:adres"/>
+    <file name="kab logo.png" crc="120473051" seo="true" ref="contact:adres"/>
+    <file name="u3211-4.png" crc="4001646413" ref="contact:adres:routebeschrijving"/>
+    <file name="geplakte afbeelding 100 x 1342.jpg" crc="4160145618" seo="true" ref="jorg-nienhaus"/>
+    <file name="img_zwanger.jpg" crc="3933926849" seo="true" ref="shiatsu-zwangerschap"/>
+    <file name="u4336.png" crc="4040827581" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4336-a.png" crc="4030903608" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4342.png" crc="93142336" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4342-a.png" crc="144749043" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4328.png" crc="59055080" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4328-a.png" crc="18743951" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4434.png" crc="442341814" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4434-a.png" crc="214954868" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4301.png" crc="5669848" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4301-a.png" crc="3778554251" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4313.png" crc="4140193894" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4313-a.png" crc="3871110522" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4321.png" crc="70662831" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4321-a.png" crc="53762945" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4286-10.png" crc="71581692" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="fysioimg.jpg" crc="3866742028" seo="true" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+    <file name="u4292-4.png" crc="4001646413" ref="fysiotherapie:over-fysiotherapie:fysiotherapie-behandeling:fysiotherapie-aandoeningen-en-klachten:fysiotherapie-combinatie-met-acupunctuur"/>
+  </folder>
+  <file name="index.html" crc="3960421768" seo="true" mt="1719558713417" redirect="true"/>
+  <file name="acupunctuur.html" crc="3910903014" seo="true" mt="1719558713472" redirect="true"/>
+  <file name="mensendieck.html" crc="292349639" seo="true" mt="1719558713568" redirect="true"/>
+  <file name="shiatsu.html" crc="4269572267" seo="true" mt="1719558714998" redirect="true"/>
+  <file name="over-acupunctuur.html" crc="504880995" seo="true" mt="1719558713472" redirect="true"/>
+  <file name="bekendheid-en-indicaties.html" crc="409177666" seo="true" mt="1719558713472" redirect="true"/>
+  <file name="basisprincipe.html" crc="4279025074" seo="true" mt="1719558713472" redirect="true"/>
+  <file name="therapeuten.html" crc="3760946732" seo="true" mt="1719558713664" redirect="true"/>
+  <file name="kosten-en-vergoeding.html" crc="4102987671" seo="true" mt="1719558713689" redirect="true"/>
+  <file name="contact.html" crc="300616193" seo="true" mt="1719558713736" redirect="true"/>
+  <file name="who-lijst-met-indicaties.html" crc="429992996" seo="true" mt="1719558713472" redirect="true"/>
+  <file name="acupunctuur-behandeling.html" crc="4254722631" seo="true" mt="1719558713472" redirect="true"/>
+  <file name="over-shiatsu.html" crc="373513094" seo="true" mt="1719558715167" redirect="true"/>
+  <file name="shiatsu-behandeling.html" crc="3922354107" seo="true" mt="1719558715618" redirect="true"/>
+  <file name="saskia-ten-brinke.html" crc="371733849" seo="true" mt="1719558713664" redirect="true"/>
+  <file name="jorg-nienhaus.html" crc="295870688" seo="true" mt="1719558713664" redirect="true"/>
+  <file name="kosten-en-vergoedingen-algemeen.html" crc="3777798930" seo="true" mt="1719559332141" redirect="true"/>
+  <file name="vergoedingen-zorgverzekering.html" crc="97764429" seo="true" mt="1719558713689" redirect="true"/>
+  <file name="adres.html" crc="4139129292" seo="true" mt="1719558713736" redirect="true"/>
+  <file name="routebeschrijving.html" crc="4286378523" seo="true" mt="1719558713736" redirect="true"/>
+  <file name="over-oefentherapie.html" crc="19207355" seo="true" mt="1719558713568" redirect="true"/>
+  <file name="oefentherapie-behandeling.html" crc="3873078618" seo="true" mt="1719558713568" redirect="true"/>
+  <file name="oefentherapie-combinatie-met-shiatsu.html" crc="4182113926" seo="true" mt="1719558713568" redirect="true"/>
+  <file name="oefentherapie-bekendheid-en-indicaties.html" crc="4048382594" seo="true" mt="1719558713568" redirect="true"/>
+  <file name="oefentherapie-slaapoefentherapie.html" crc="149449944" seo="true" mt="1719558713568" redirect="true"/>
+  <file name="intake.html" crc="264302576" mt="1719558713417" redirect="true"/>
+  <file name="naamloos-27.html" crc="3849097904" seo="true" mt="1719558713664" redirect="true"/>
+  <file name="shiatsu-basisprincipe.html" crc="119897918" seo="true" mt="1719558715343" redirect="true"/>
+  <file name="shiatsu-combinatie-oefentherapie.html" crc="256732573" seo="true" mt="1719558715875" redirect="true"/>
+  <file name="shiatsu-zwangerschap.html" crc="3927514774" seo="true" mt="1719558716077" redirect="true"/>
+  <file name="fysiotherapie.html" crc="491431582" seo="true" mt="1719558716778" redirect="true"/>
+  <file name="over-fysiotherapie.html" crc="57912661" seo="true" mt="1719558716876" redirect="true"/>
+  <file name="fysiotherapie-behandeling.html" crc="3980962190" seo="true" mt="1719558716994" redirect="true"/>
+  <file name="fysiotherapie-aandoeningen-en-klachten.html" crc="4231423512" seo="true" mt="1719558717249" redirect="true"/>
+  <file name="fysiotherapie-combinatie-met-acupunctuur.html" crc="4005086405" seo="true" mt="1719558717483" redirect="true"/>
+</manifest>
